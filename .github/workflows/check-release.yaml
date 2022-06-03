@@ -1,5 +1,10 @@
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
+
+# exemplos:
+#https://github.com/beatrizmilz/RelatoriosTransparenciaAguaSP/blob/master/.github/workflows/executar-script-download-html.yaml
+#https://github.com/beatrizmilz/sigbm/blob/main/.github/workflows/download-sigbm.yaml
+
 on:
   push:
     branches: [main, master]
